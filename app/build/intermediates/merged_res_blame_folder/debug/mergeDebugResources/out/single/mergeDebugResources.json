@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_wallpaper.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\wallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-31:/layout_activity_main2.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_b.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_blade.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\blade.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_firefly1.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\firefly1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_kafka1.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\kafka1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_silverwolf2.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\silverwolf2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_zhongli.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\zhongli.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_firefly.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\firefly.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_venti.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\venti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_silver_wolf_gender_female_bou_6_27_2024.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\silver_wolf_gender_female_bou_6_27_2024.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_silver_wolf_gender_female_6_27_2024.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\silver_wolf_gender_female_6_27_2024.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_firefly2.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\firefly2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_kafka.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\kafka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_firefly2_copy.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\firefly2_copy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_silverwolf1.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\silverwolf1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_furina.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\furina.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_building.jpeg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\building.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_blade_gender_male_bounty_8_6_27_2024.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\blade_gender_male_bounty_8_6_27_2024.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_blade1.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\blade1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_silverwolf.jpeg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\silverwolf.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_kafka.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\kafka.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_firefly.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\firefly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_blade.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\blade.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_ff.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\ff.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_firefly3.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\firefly3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_activity_silverwolf.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\activity_silverwolf.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_kaf.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\kaf.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_nahida.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\nahida.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_ei.png.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\ei.png"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-debug-31:\\drawable_blade2.jpg.flat",
+        "source": "C:\\Users\\GABBY\\.gradle\\daemon\\8.4\\com.example.myapplication.app-main-33:\\drawable\\blade2.jpg"
+    }
+]
